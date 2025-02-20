@@ -2,7 +2,11 @@
 
 ## This space is highly dedicated to our <u style="color: #a68a64">Bodmosh Group</u>. Here, we'll share assets, files, and text documents for assignments to help you build and refine your web development skills.
 
-``` Happy coding! 🎉👨🏻‍💻👩🏻‍💻 ```
+<img src="./bodmosh.jpg" style="border-radius: 10px">
+
+<div style="text-align: center;">
+<h3 style="background-color: #a68a64; color: #fff;  padding: 5px; border-radius: 5px;">Happy coding! 🕸👨🏻‍💻👩🏻‍💻</h3>
+</div>
 
 <hr>
 
