@@ -1,6 +1,6 @@
 # Welcome to our Web Development Learning Repository! 🚀
 
-## This space is highly dedicated to our <u style="color: #a68a64">Bodmosh Group</u>. Here, we'll share assets, files, and text documents for assignments to help you build and refine your web development skills.
+## This space is highly dedicated to our <u style="color: #a68a64">Bodmosho Ki Toli</u>. Here, we'll share assets, files, and text documents for assignments to help you build and refine your web development skills.
 
 <img src="./bodmosh.jpg" style="border-radius: 10px">
 
