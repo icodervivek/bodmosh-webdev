@@ -17,5 +17,5 @@
 Assignment 2 - <b><a style="color: #a68a64;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_2"><u>Code Files</u></a></b>  <strong><a style="color: #a68a64;" href="https://icodervivek.github.io/bodmosh-webdev/assignment_2/bhootlok"><u>Output</u></a> </strong>
 </div>
 <div>
-Assignment 3 - <b><a style="color: #a68a64;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_3"><u>Code Files</u></a></b>  <strong><a style="color: #a68a64;" href="https://raw.githubusercontent.com/icodervivek/bodmosh-webdev/refs/heads/main/assignment_3/output.jpg"><u>Output</u></a> </strong>
+Assignment 3 - <b><a style="color: #a68a64;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_3"><u>Code Files</u></a></b>  <strong><a style="color: #a68a64;" href="https://icodervivek.github.io/bodmosh-webdev/assignment_3/"><u>Output</u></a> </strong>
 </div>

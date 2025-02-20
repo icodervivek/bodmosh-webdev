@@ -1,0 +1,52 @@
+body {
+  background-color: #14213d;
+}
+
+.codd-img {
+  border-radius: 30px;
+  border: 1px solid black;
+  margin: 2rem 4rem;
+}
+
+h1 {
+  color: #14213d;
+  text-decoration: 1px underline red;
+  margin-top: 7rem;
+}
+
+.codd-txts{
+    margin: 0 2rem;
+}
+
+.codd-txts > p{
+  color: #14213d;    
+}
+
+.wiki_link {
+  color: red;
+  text-decoration: none;
+}
+
+p {
+  color: #b7e4c7;
+}
+
+h2 {
+  color: #ddd;
+}
+
+li {
+  color: #b7e4c7;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #57cc99;
+  margin: 1rem 12rem;
+  border-radius: 30px;
+}
+
+.para-section{
+  margin: 2rem 12rem;
+}
