@@ -15,3 +15,7 @@ Please find below the Pokeman character names and images.
 You can use the style attribute for better appearance as described below.
 
 ```<img style="width:25%" src="https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891758-001bulbasaur.png" alt="">```
+
+### Output
+
+![alt text](output.jpg)

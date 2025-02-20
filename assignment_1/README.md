@@ -20,3 +20,7 @@ Image link - https://upload.wikimedia.org/wikipedia/en/5/58/Edgar_F_Codd.jpg
 - (1990). The Relational Model for Database Management (Version 2 ed.). Addison Wesley Publishing. ISBN 978-0-201-14192-4.
 
 - Codd, S. B.; Salley, C. T. (1993). "Providing OLAP to User-Analysts: An IT Mandate" (PDF). Archived (PDF) from the original on 7 November 2005.
+
+### Output
+
+![alt text](output.jpg)
