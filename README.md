@@ -13,5 +13,5 @@ Happy coding! 🎉
 Assignment 2 - <a style="color: #450920;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_2"><i>Code Files</i></a>  <a style="color: #450920;" href="https://icodervivek.github.io/bodmosh-webdev/assignment_2/bhootlok"><i>Output</i></a> 
 </div>
 <div>
-Assignment 3 - <a style="color: #450920;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_3"><i>Code Files</i></a>  <a style="color: #450920;" href="https://icodervivek.github.io/bodmosh-webdev/assignment_3/"><i>Output</a>
+Assignment 3 - <a style="color: #450920;" href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_3"><i>Code Files</i></a>  <a style="color: #450920;" href="https://icodervivek.github.io/bodmosh-webdev/assignment_3/"><i>Output<i></a>
 </div>
