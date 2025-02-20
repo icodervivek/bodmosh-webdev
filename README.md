@@ -1,5 +1,4 @@
-<div style="background-color: black; color: white;"> 
-<h1>Welcome to our Web Development Learning Repository! 🚀</h1>
+# Welcome to our Web Development Learning Repository! 🚀
 
 ## This space is highly dedicated to our Bodmosh Group. Here, we'll share assets, files, and text documents for assignments to help you build and refine your web development skills.
 
@@ -15,5 +14,4 @@ Assignment 2 - <a href="https://github.com/icodervivek/bodmosh-webdev/tree/main/
 </div>
 <div>
 Assignment 3 - <a href="https://github.com/icodervivek/bodmosh-webdev/tree/main/assignment_3">Code Files</a>  <a href="https://icodervivek.github.io/bodmosh-webdev/assignment_3/">Output</a>
-</div>
 </div>
